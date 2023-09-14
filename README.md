@@ -1,8 +1,14 @@
-# React + Vite
+<h1>Tailwind+React Project</h1>  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo **[Link](https://hilarious-meerkat-d56c32.netlify.app/)**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<strong>Resposive Image</strong>
+
+![image](https://github.com/pyadav40/Landing_Page/assets/109465963/1d08a352-36d3-4ef5-9294-b9de55e609be)
+
+<strong>Resposive Image</strong>
+
+![image](https://github.com/pyadav40/Landing_Page/assets/109465963/3149e75a-1d4c-4c77-82e0-813b6e2bdfdf)
+
+
