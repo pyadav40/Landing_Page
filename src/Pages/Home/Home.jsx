@@ -15,7 +15,7 @@ const Home = () => {
   const [drawer, setDrawer] = useState(false);
 
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <div
         className="w-full h-screen flex flex-col items-center 
         bg-gradient-to-b from-amber-500 to-gray-100 px-16 max-md:px-5"
